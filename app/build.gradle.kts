@@ -14,7 +14,7 @@ android {
         versionCode = 1
         versionName = "1.0"
 
-        buildConfigField("String", "GEMINI_API_KEY", "\"YOUR_API_KEY_HERE\"") // Replace with your key
+        buildConfigField("String", "GEMINI_API_KEY", "\"AQ.Ab8RN6LJHbmPs4nciNer-vemSVGFM1DDHMIf7HmOGEzUoXkelA\"") // Replace with your key
     }
 
     buildTypes {
